@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant Pandey</h1>
-<h3 align="center">A passionate frontend developer who care about writing clean, efficient code and continuously learning new technologies. from India</h3>
+<h3 align="center">A passionate frontend developer who cares about writing clean, efficient code and continuously learning new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant0pandey&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant0pandey" /> </p>
 
