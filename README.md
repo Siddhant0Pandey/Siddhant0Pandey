@@ -1,4 +1,4 @@
-#  About Me:
+### 🔦 About Me:
 A passionate frontend developer who cares about writing clean, efficient code and continuously learning new technologies.
 
 
